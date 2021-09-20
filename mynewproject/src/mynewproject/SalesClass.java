@@ -1,3 +1,4 @@
+package mynewproject;
 
 public class SalesClass {
 
